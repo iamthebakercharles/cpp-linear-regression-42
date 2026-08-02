@@ -1,2 +1,4 @@
-# cpp-linear-regression-42
+# Cpp Linear Regression 42
+
 Basic slope-intercept coefficients solver in C++.
+
